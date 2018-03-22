@@ -1,0 +1,11 @@
+cx-Freeze==5.1.1
+Pillow==5.0.0
+pyHook==1.5.1
+pyhooked==0.8.1
+PyMsgBox==1.0.6
+PyQt5==5.10.1
+PyTweening==1.0.3
+pywin32==223
+sip==4.19.8
+win32core==221.36
+win32gui==221.6

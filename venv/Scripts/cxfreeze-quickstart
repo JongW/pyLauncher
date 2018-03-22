@@ -1,0 +1,5 @@
+#!C:\Users\Jong\Desktop\Projects\MiniScript\venv\Scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
