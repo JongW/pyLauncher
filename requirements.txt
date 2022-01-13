@@ -1,5 +1,5 @@
 cx-Freeze==5.1.1
-Pillow==5.0.0
+Pillow==9.0.0
 pyHook==1.5.1
 pyhooked==0.8.1
 PyMsgBox==1.0.6
